@@ -3,5 +3,5 @@
 #' Prints a greeting.
 #' @export
 hello <- function() {
-  print("Hello, world!")
+  print("Hello, intermediate workshop participants!")
 }
