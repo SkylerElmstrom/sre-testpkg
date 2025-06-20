@@ -1,4 +1,3 @@
-# Simple R Package Repository Template
+# Skyler's Test Package
+This package and its `pkgdown` site was built following the [2025 Cascadia R Conference Intermediate GitHub Workshop (Part 2)](https://github.com/cascadiarconf-gh-workshops/intermediate-github-2).
 
-### For Use in Intermediate GitHub for R Users - Part 2
-https://github.com/cascadiarconf-gh-workshops/intermediate-github-2
